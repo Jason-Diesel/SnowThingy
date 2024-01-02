@@ -5,6 +5,10 @@ The program will cause memory leaks beacuse I am to lazy to do anything about it
 <strong>The program will only work in certain circumstances (size and position of plane and billboardgroup)</strong>
 
 <br>
+
+Also when a new build is created the Assimp DLL file is needed to be added in the x64->Debug/Release folder (I don't know if x86 works).
+
+<br>
 <strong>The Important files that tackels the problem is: </strong>
 <ul>
   <li>TestScene</li>
